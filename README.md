@@ -1,5 +1,6 @@
 # java-demo
 It is practice java program from udaciti java lesson.
+it use interface ,Arraylist, Scanner ,file ,try,Inheritance,polymorphism,Overload
 if i hava worong ,can you send email to me email :a1616256a@gmail.com
 
 # MissionToMars
