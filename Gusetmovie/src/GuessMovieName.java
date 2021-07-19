@@ -13,6 +13,8 @@ public class GuessMovieName {
     while (scannerFile.hasNextLine()){
         movieList.add(scannerFile.nextLine());
     }
+
+
      /* MovieMethod1 movieMethod_guessMovieName =new MovieMethod1(movieList);
         for (int i = 0; i < 20; i++) {
             movieMethod_guessMovieName.guessinput();
