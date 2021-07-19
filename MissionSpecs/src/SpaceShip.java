@@ -1,4 +1,4 @@
-package MissionSpecs;
+
 
 public interface SpaceShip {
     public abstract boolean launch();
